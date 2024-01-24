@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/java/servlet/InsertionFabricationMeuble.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>98</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/src/java/objet/Grade.java</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/src/java/servlet/FiltrePrix.java</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/src/java/objet/Experience.java</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/src/java/objet/Meuble.java</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/web/InsertionEmployeFabrication.jsp</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/src/java/objet/TauxExperience.java</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/src/java/objet/V_PrixMeuble.java</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/src/java/objet/Employe.java</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/web/InsertionPrixDeVente.jsp</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/src/java/objet/FabricationMeuble.java</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/src/java/objet/EmployeFabrication.java</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/web/InsertionMeuble.jsp</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/src/java/servlet/PosteActuel.java</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/src/java/objet/PrixMateriel.java</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/web/Header.jsp</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/src/java/objet/Materiel.java</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/src/java/servlet/InsertionPersonne.java</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/web/Benefice.jsp</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/src/java/servlet/InsertionEmployeFabrication.java</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/src/java/servlet/StockMateriel.java</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/web/InsertionStyleMateriel.jsp</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/src/java/objet/PrixDeVente.java</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/web/InsertionEmploye.jsp</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/web/InsertionExperience.jsp</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/web/InsertionCategorie.jsp</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/web/PosteActuel.jsp</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/src/java/servlet/InsertionFabricationMeuble.java</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/web/InsertionFabricationMeuble.jsp</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/src/java/objet/Personne.java</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/web/ListeMeubleMateriel.jsp</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/src/java/objet/V_Benefice.java</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/src/java/servlet/InsertionDureeFabricationMeuble.java</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/src/java/generalisation/Generalisation.java</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/src/java/objet/Employe2.java</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/src/java/objet/Stylemateriel.java</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/src/java/objet/PosteEmploye.java</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/src/java/servlet/InsertionSM.java</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/src/java/servlet/InsertionPrixDeVente.java</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/src/java/objet/SalaireEmploye.java</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/src/java/servlet/InsertionEmploye.java</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/src/java/servlet/InsertionPrixMateriel.java</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/web/PrixMeuble.jsp</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/src/java/objet/DureeFabricationProduit.java</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/src/java/servlet/InsertionMeuble.java</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/src/java/objet/Role.java</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/web/InsertionDureeFabricationProduit.jsp</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/src/java/objet/Identifiant.java</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/src/java/servlet/InsertionExperience.java</file>
+            <file>file:/D:/UNIVERSITY/L3/MD_BAOVOLA/PROJET%20FINAL/S3-S5/web/InsertionPrixMateriel.jsp</file>
+        </group>
+    </open-files>
+</project-private>
